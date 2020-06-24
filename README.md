@@ -5,9 +5,9 @@ sudo wget https://github.com/Areshey/install_odoo/blob/master/install_odoo_file.
 
 2. Change the file permission to allow execute it
 
-sudo chmod +x odoo_install.sh
+sudo chmod +x install_odoo_file.sh
 
 3. Run the script as superuser(root):
 
-sudo ./odoo_install.sh
+sudo ./install_odoo_file.sh
 
