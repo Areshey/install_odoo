@@ -5,5 +5,6 @@ Odoo 11.0 ‘deb’ package supports[Debian Stretch](https://www.debian.org/rele
 
 #### Prepare
 Odoo needs a [PostgreSQL](https://www.postgresql.org/)server to run properly. The default configuration for the Odoo ‘deb’ package is to use the PostgreSQL server on the same host as your Odoo instance. Execute the following command as root in order to install PostgreSQL server :
-' # apt-get install postgresql -y'
+>. # apt-get install postgresql -y
+
 
