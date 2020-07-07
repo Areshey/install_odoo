@@ -1,16 +1,17 @@
 # Description for install odoo into Ubuntu Operating System
 
 ### Step1 update the system 
-```
-echo "update the system: "
-sudo apt-get update
-```
+
+```echo "update the system: "```
+```sudo apt-get update```
+
 
 
 ### Step2  add odoo user to system system 
 
-    echo "add odoo user to system system "
-    sudo adduser --system --home=/opt/odoo --group odoo
+```echo "add odoo user to system system "```
+```sudo adduser --system --home=/opt/odoo --group odoo```
+
 ### Step3 install requirement packages  
 
     echo "install requirement packages   "
