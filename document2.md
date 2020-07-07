@@ -3,7 +3,7 @@
 
 #### Debian/Ubuntu
 
-Odoo 11.0 ‘deb’ package currently supports [Debian Stretch](https://www.debian.org/releases/stretch/), [Ubuntu Xenial](http://releases.ubuntu.com/16.04/), [Ubuntu Zesty](http://releases.ubuntu.com/17.04/) and [Ubuntu Artful](http://releases.ubuntu.com/17.10/).
+Odoo 11.0 ‘deb’ package  supports [Debian Stretch](https://www.debian.org/releases/stretch/), [Ubuntu Xenial](http://releases.ubuntu.com/16.04/), [Ubuntu Zesty](http://releases.ubuntu.com/17.04/) and [Ubuntu Artful](http://releases.ubuntu.com/17.10/).
 
 ##### Prepare
 
