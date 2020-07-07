@@ -1,4 +1,4 @@
-#!/bin/bash
+
 > #################################################################################' 
  >how to run the install_odoo_file.sh in Ubuntu Operating System Installation steps
 >1. Download the script:
