@@ -1,8 +1,9 @@
 # Description for install odoo on Ubuntu Operating System
 
 #!/bin/bash
+```
 > #################################################################################' 
-r.# how to run the install_odoo_file.sh in Ubuntu Operating System
+# how to run the install_odoo_file.sh in Ubuntu Operating System
 #Installation steps
 #1. Download the script:
 #2. Change the file permission to allow execute it
@@ -10,6 +11,7 @@ r.# how to run the install_odoo_file.sh in Ubuntu Operating System
 #3. Run the script as supersuer:
 #sudo ./odoo_install.sh
 ################################################################################
+```
 
 ### Step1 update the system 
 `echo "update the system: "`
